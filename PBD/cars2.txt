@@ -1,0 +1,5 @@
+Chevrolet::Corvette::1974::VAROOM
+Ford::Pinto::1974::KABOOM
+Toyota::Camry::1989::TOYCAR
+Honda::Civic::2009::BORING
+Buick::Skylark::1980::OLDCAR
