@@ -1,0 +1,15 @@
+E1::2::Chocolate Gu::0.95::1.5::13
+D1::1::Orange Gu::0.95::1.5::0
+E2::3::Mocha Gu::0.95::1.5::17
+C1::1::Orange Gu::0.95::1.5::14
+D2::2::Chocolate Gu::0.95::1.5::26
+E3::2::Chocolate Gu::0.95::1.5::0
+B1::2::Chocolate Gu::0.95::1.5::29
+C2::2::Chocolate Gu::0.95::1.5::12
+D3::1::Orange Gu::0.95::1.5::0
+A1::1::Orange Gu::0.95::1.5::26
+B2::3::Mocha Gu::0.95::1.5::22
+C3::1::Orange Gu::0.95::1.5::15
+A2::2::Chocolate Gu::0.95::1.5::20
+B3::1::Orange Gu::0.95::1.5::23
+A3::1::Orange Gu::0.95::1.5::22

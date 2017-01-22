@@ -1,0 +1,7 @@
+1::false::Paul::Peterson::3652::Eakins::Rd.::Cuyahoga Falls::OH::44223:c:Cell::330-212-3715:r:Backup::330-607-4256:r::c:primary::doghouse308@yahoo.com:r:secondary::doghouse469@yahoo.com:r::c::r::c:
+2::false::Fred::Flintstone::1::Cave Rock way::way::Bedrock::BC::0:c::r::c::r::c::r::c:
+3::false::Lulu::Farrell::953::Everette::Alley::Sunrise::FL::33317:c:Home::954.835.3500:r::c:primary::LuluDFarrell@teleworm.us:r::c:Lulu's Birthday::01/10/1974:::r:
+4::false::Joseph::Williams::3233::Arbor::Court::Cokeville::WY::83114:c:Work::307-279-9528:r::c:Personal::JosephTWilliams@dayrep.com:r::c: Birthdate::08/12/1970::test:r:
+5::false::Kathie::Peterson::3652::Eakins::Rd.::Cuyahoga Falls::OH::44223:c:Cell::330-212-3714:r:Work::330-463-6958:r::c:Personal::gotfivedogs@gmail.com:r::c:Kathie's Birthdate::02/23/1969:::r:
+6::false::Ronald::Cushman::2315::Elliot::St::Laconia::NH::03246:c:Home::603-528-9051:r::c:personal::RonaldCCushman@teleworm.us:r::c:Birthdate::02/20/1934:::r:
+7::false::Ann::Scott::1954::Hall::St.::Las Vegas::NV::89119:c::r::c::r::c::r::c:

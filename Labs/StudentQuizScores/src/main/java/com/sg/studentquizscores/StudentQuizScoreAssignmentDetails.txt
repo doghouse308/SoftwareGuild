@@ -1,0 +1,24 @@
+
+Lesson 3 Lab 3: Student Quiz Scores 
+Requirements  
+In this lab, you will write a program that stores quiz scores for each student in a class and that calculates the 
+average quiz score for each student on request.  The user should be able to do the following: 
+    View a list of students in the system 
+    Add a student to the system 
+    Remove a student from the system 
+    View a list of quiz scores for a given student 
+    View the average quiz score for a given student 
+
+It is up to you to design and implement a reasonable UI
+ menu system.  Design the UI and program flow chart 
+before coding — you must review both with the instructor before proceeding. 
+Your program must have 
+the following features:  
+1.   This program will be a Java Console Application called StudentQuizGrades. 
+2.   The program must use the ConsoleIO class created previously for all console input and output. 
+3.   The program must store student quiz data in a HashMap that has the student name as the key and an 
+ArrayList of integers as the values (will this affect your ability to calculate average scores?). 
+Extension: 
+1.   Calculate the average quiz score for the entire class. 
+2.   Find and list the student(s) with the highest quiz score. 
+3.   Find and list the student(s) with the lowest quiz score. 

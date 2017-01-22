@@ -1,0 +1,3 @@
+FlintstoneFred::Fred::Flintstone::75::45::100::87::98
+RubbleBarney::Barney::Rubble::97::88::89::97::100
+FlintstoneWilma::Wilma::Flintstone::99::98::100::97::100
